@@ -1,0 +1,30 @@
+{
+	"domain_name" : "http://dmoztools.net",
+	"force_check" : true,
+  	"languages": [
+	    {
+	      "iso_name": "Indonesia",
+	      "native_name": "Indonesia",
+	      "code": "id",
+	      "link": "/World/Bahasa_Indonesia/"
+	    },
+	    {
+	      "iso_name": "Malay",
+	      "native_name": "Bahasa Melayu",
+	      "code": "my",
+	      "link": "/World/Bahasa_Melayu/"
+	    },
+	    {
+	      "iso_name": "Thai",
+	      "native_name": "ไทย",
+	      "code": "th",
+	      "link": "/World/Thai/"
+	    },
+	    {
+	      "iso_name": "Vietnamese",
+	      "native_name": "",
+	      "code": "vi",
+	      "link": "/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/"
+	    }    
+  	]
+}
