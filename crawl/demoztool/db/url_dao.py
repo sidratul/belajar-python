@@ -11,12 +11,12 @@ class UrlDao:
 	truncate_sql = "DELETE FROM urls"
 
 	def __init__(self):
-		return conn.execute(self.create_sql)
+		self.conn.execute(self.create_sql)
 
 	def get_all(self):
-		return conn.fecth_all(self.select_sql)
+		return self.conn.fecth_all(self.select_sql)
 
-	def is_url_exist(self,url,node_count):
+	def get_url(self,url,node_count):
 		return self.conn.fecth_one(self.exist_sql,(url,node_count))
 		
 	def insert(self,url,node_count,last_update):

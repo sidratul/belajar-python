@@ -3,7 +3,6 @@ import os
 
 class SqliteConn:
 	
-
 	def __init__(self):
 		self.conn = sqlite3.connect(os.getcwd()+'/demoztool.db',check_same_thread = False)
 		return

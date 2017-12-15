@@ -1,0 +1,588 @@
+#2017-12-07 10:40:28,462 - INFO - initiate
+#2017-12-07 10:40:28,462 - INFO - initate by config
+#2017-12-07 10:40:28,462 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:40:28,462 - ERROR - <type 'exceptions.NameError'>
+#2017-12-07 10:40:28,463 - DEBUG - Error on line 78
+#2017-12-07 10:41:50,009 - INFO - initiate
+#2017-12-07 10:41:50,009 - INFO - initate by config
+#2017-12-07 10:41:50,009 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:41:50,753 - ERROR - <type 'exceptions.AttributeError'>
+#2017-12-07 10:41:50,753 - DEBUG - Error on line 80
+#2017-12-07 10:42:20,130 - INFO - initiate
+#2017-12-07 10:42:20,130 - INFO - initate by config
+#2017-12-07 10:42:20,130 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:42:20,210 - ERROR - <type 'exceptions.NameError'>
+#2017-12-07 10:42:20,210 - DEBUG - Error on line 80
+#2017-12-07 10:42:27,018 - INFO - initiate
+#2017-12-07 10:42:27,018 - INFO - initate by config
+#2017-12-07 10:42:27,018 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:42:27,117 - ERROR - <type 'exceptions.NameError'>
+#2017-12-07 10:42:27,117 - DEBUG - Error on line 80
+#2017-12-07 10:44:37,036 - INFO - initiate
+#2017-12-07 10:44:37,036 - INFO - initate by config
+#2017-12-07 10:44:37,037 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:44:58,702 - INFO - initiate
+#2017-12-07 10:44:58,703 - INFO - initate by config
+#2017-12-07 10:44:58,703 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:45:03,774 - ERROR - <type 'exceptions.NameError'>
+#2017-12-07 10:45:03,774 - DEBUG - Error on line 80
+#2017-12-07 10:46:16,135 - INFO - initiate
+#2017-12-07 10:46:16,136 - INFO - initate by config
+#2017-12-07 10:46:16,136 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:46:16,769 - ERROR - <type 'exceptions.NameError'>
+#2017-12-07 10:46:16,769 - DEBUG - Error on line 80
+#2017-12-07 10:47:25,327 - INFO - initiate
+#2017-12-07 10:47:25,327 - INFO - initate by config
+#2017-12-07 10:47:25,327 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:47:26,969 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:48:08,617 - INFO - initiate
+#2017-12-07 10:48:08,617 - INFO - initate by config
+#2017-12-07 10:48:08,618 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:48:08,869 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:48:08,912 - ERROR - Error : <type 'exceptions.AttributeError'> 'unicode' object has no attribute 'get' 
+#2017-12-07 10:48:08,913 - DEBUG - Error on line 91
+#2017-12-07 10:50:06,781 - INFO - initiate
+#2017-12-07 10:50:06,781 - INFO - initate by config
+#2017-12-07 10:50:06,781 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:50:07,084 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:50:07,143 - ERROR - Error : <type 'exceptions.AttributeError'> 'unicode' object has no attribute 'get' 
+#2017-12-07 10:50:07,143 - DEBUG - Error on line 91
+#2017-12-07 10:51:19,801 - INFO - initiate
+#2017-12-07 10:51:19,801 - INFO - initate by config
+#2017-12-07 10:51:19,801 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:51:25,449 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:51:25,470 - ERROR - Error : <type 'exceptions.AttributeError'> 'unicode' object has no attribute 'get' 
+#2017-12-07 10:51:25,470 - DEBUG - Error on line 91
+#2017-12-07 10:51:31,787 - INFO - initiate
+#2017-12-07 10:51:31,787 - INFO - initate by config
+#2017-12-07 10:51:31,788 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:51:31,900 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:51:31,948 - ERROR - Error : <type 'exceptions.AttributeError'> 'unicode' object has no attribute 'get' 
+#2017-12-07 10:51:31,948 - DEBUG - Error on line 91
+#2017-12-07 10:51:56,531 - INFO - initiate
+#2017-12-07 10:51:56,531 - INFO - initate by config
+#2017-12-07 10:51:56,531 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:52:01,596 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:52:01,618 - ERROR - Error : <type 'exceptions.AttributeError'> 'unicode' object has no attribute 'get' 
+#2017-12-07 10:52:01,618 - DEBUG - Error on line 91
+#2017-12-07 10:53:18,798 - INFO - initiate
+#2017-12-07 10:53:18,798 - INFO - initate by config
+#2017-12-07 10:53:18,798 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:53:24,393 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:53:24,414 - ERROR - Error : <type 'exceptions.AttributeError'> UnfinishedUrlDao instance has no attribute 'insert_many' 
+#2017-12-07 10:53:24,414 - DEBUG - Error on line 95
+#2017-12-07 10:54:32,510 - INFO - initiate
+#2017-12-07 10:54:32,510 - INFO - initate by config
+#2017-12-07 10:54:32,510 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 10:54:38,278 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 10:54:39,441 - ERROR - Error : <class 'sqlite3.ProgrammingError'> Incorrect number of bindings supplied. The current statement uses 1, and there are 24 supplied. 
+#2017-12-07 10:54:39,441 - DEBUG - Error on line 119
+#2017-12-07 11:06:18,048 - INFO - initiate
+#2017-12-07 11:06:18,048 - INFO - initate by config
+#2017-12-07 11:06:18,048 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 11:06:18,697 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 11:06:19,916 - INFO - done processing /World/Bahasa_Indonesia/
+#2017-12-07 11:07:34,688 - INFO - initiate
+#2017-12-07 11:07:50,387 - INFO - initiate
+#2017-12-07 11:07:50,387 - DEBUG - unfinished link [(26, u'/World/Bahasa_Indonesia/Daerah/', 398, u'2017-12-07 04:06:18'), (27, u'/World/Bahasa_Indonesia/Belanja/', 166, u'2017-12-07 04:06:18'), (28, u'/World/Bahasa_Indonesia/Berita/', 46, u'2017-12-07 04:06:18'), (29, u'/World/Bahasa_Indonesia/Bisnis/', 177, u'2017-12-07 04:06:18'), (30, u'/World/Bahasa_Indonesia/Kesehatan/', 22, u'2017-12-07 04:06:19'), (31, u'/World/Bahasa_Indonesia/Kesenian/', 91, u'2017-12-07 04:06:19'), (32, u'/World/Bahasa_Indonesia/Komputer/', 289, u'2017-12-07 04:06:19'), (33, u'/World/Bahasa_Indonesia/Masyarakat/', 321, u'2017-12-07 04:06:19'), (34, u'/World/Bahasa_Indonesia/Olahraga/', 51, u'2017-12-07 04:06:19'), (35, u'/World/Bahasa_Indonesia/Permainan/', 16, u'2017-12-07 04:06:19'), (36, u'/World/Bahasa_Indonesia/Referensi/', 136, u'2017-12-07 04:06:19'), (37, u'/World/Bahasa_Indonesia/Rekreasi/', 47, u'2017-12-07 04:06:19'), (38, u'/World/Bahasa_Indonesia/Rumah_Tangga/', 13, u'2017-12-07 04:06:19'), (39, u'/World/Bahasa_Indonesia/Sains/', 34, u'2017-12-07 04:06:19'), (40, u'/Kids_and_Teens/International/Bahasa_Indonesia/', 8, u'2017-12-07 04:06:19')] 
+#2017-12-07 11:11:13,532 - INFO - initiate
+#2017-12-07 11:11:13,532 - DEBUG - INITIATE unfinished urls [] 
+#2017-12-07 11:11:35,302 - INFO - initiate
+#2017-12-07 11:11:35,302 - DEBUG - INITIATE unfinished urls [] 
+#2017-12-07 11:11:35,302 - INFO - initate by config
+#2017-12-07 11:11:35,302 - INFO - processing /World/Bahasa_Melayu/
+#2017-12-07 11:11:35,302 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 11:11:35,302 - INFO - processing /World/Thai/
+#2017-12-07 11:11:35,304 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+#2017-12-07 11:11:35,894 - INFO - #REQUEST http://dmoztools.net/World/Thai/ 200 
+#2017-12-07 11:11:35,980 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 11:11:36,089 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active 
+#2017-12-07 11:11:36,089 - DEBUG - Error on line 96
+#2017-12-07 11:11:36,145 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Melayu/ 200 
+#2017-12-07 11:11:36,200 - INFO - #REQUEST http://dmoztools.net/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/ 200 
+#2017-12-07 11:11:36,259 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active 
+#2017-12-07 11:11:36,259 - DEBUG - Error on line 96
+#2017-12-07 11:11:36,475 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active 
+#2017-12-07 11:11:36,476 - DEBUG - Error on line 96
+#2017-12-07 11:11:37,182 - ERROR - Error : <type 'exceptions.TypeError'> list indices must be integers, not str 
+#2017-12-07 11:11:37,183 - DEBUG - Error on line 107
+#2017-12-07 11:16:47,540 - INFO - initiate
+#2017-12-07 11:16:47,540 - DEBUG - INITIATE unfinished urls [] 
+#2017-12-07 11:16:47,540 - INFO - initate by config
+#2017-12-07 11:16:47,540 - INFO - processing /World/Bahasa_Indonesia/
+#2017-12-07 11:16:47,540 - INFO - processing /World/Bahasa_Melayu/
+#2017-12-07 11:16:47,542 - INFO - processing /World/Thai/
+#2017-12-07 11:16:47,542 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+#2017-12-07 11:16:47,846 - INFO - #REQUEST http://dmoztools.net/World/Thai/ 200 
+#2017-12-07 11:16:48,112 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Melayu/ 200 
+#2017-12-07 11:16:48,152 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+#2017-12-07 11:16:48,224 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active Error on line 96
+#2017-12-07 11:16:48,366 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot start a transaction within a transaction Error on line 96
+#2017-12-07 11:16:48,375 - INFO - #REQUEST http://dmoztools.net/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/ 200 
+#2017-12-07 11:16:49,559 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot start a transaction within a transaction Error on line 96
+#2017-12-07 11:16:50,209 - INFO - done processing /World/Bahasa_Indonesia/
+2017-12-07 11:35:42,567 - MainThread - INFO - initiate
+2017-12-07 11:35:42,567 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 11:35:42,568 - MainThread - INFO - initate by config
+2017-12-07 11:35:42,568 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/
+2017-12-07 11:35:42,568 - Thread-1 - INFO - processing /World/Bahasa_Melayu/
+2017-12-07 11:35:42,569 - Thread-4 - INFO - processing /World/Thai/
+2017-12-07 11:35:42,570 - Thread-2 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 11:35:43,194 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/ 200 
+2017-12-07 11:35:43,264 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Melayu/ 200 
+2017-12-07 11:35:43,285 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Thai/ 200 
+2017-12-07 11:35:43,381 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+2017-12-07 11:35:44,156 - Thread-3 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active Error on line 96
+2017-12-07 11:35:44,589 - Thread-1 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot start a transaction within a transaction Error on line 96
+2017-12-07 11:35:44,589 - Thread-4 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot start a transaction within a transaction Error on line 96
+2017-12-07 11:35:44,876 - Thread-2 - INFO - done processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 11:44:47,660 - MainThread - INFO - initiate
+2017-12-07 11:44:47,661 - MainThread - DEBUG - INITIATE unfinished urls [(90, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/%C4%90%E1%BB%8Ba_ph%C6%B0%C6%A1ng/', 802, u'2017-12-07 04:35:43'), (91, u'/World/Bahasa_Melayu/Tempatan/', 50, u'2017-12-07 04:35:43'), (92, u'/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/', 52, u'2017-12-07 04:35:43'), (93, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Doanh_nghi%E1%BB%87p/', 63, u'2017-12-07 04:35:43'), (94, u'/World/Bahasa_Indonesia/Daerah/', 398, u'2017-12-07 04:35:43'), (95, u'/World/Bahasa_Melayu/Berita/', 17, u'2017-12-07 04:35:43'), (96, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gia_%C4%91%C3%ACnh/', 7, u'2017-12-07 04:35:43'), (97, u'/World/Bahasa_Indonesia/Belanja/', 166, u'2017-12-07 04:35:43'), (98, u'/World/Bahasa_Melayu/Kesihatan/', 2, u'2017-12-07 04:35:43'), (99, u'/World/Bahasa_Indonesia/Berita/', 46, u'2017-12-07 04:35:43'), (100, u'/World/Thai/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/', 133, u'2017-12-07 04:35:43'), (101, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gi%E1%BA%A3i_tr%C3%AD_%E2%80%93_Ti%C3%AAu_khi%E1%BB%83n/', 20, u'2017-12-07 04:35:43'), (102, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Khoa_h%E1%BB%8Dc/', 31, u'2017-12-07 04:35:44'), (103, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Mua_s%E1%BA%AFm/', 8, u'2017-12-07 04:35:44'), (104, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Ngh%E1%BB%87_thu%E1%BA%ADt/', 46, u'2017-12-07 04:35:44'), (105, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%E1%BB%83_thao/', 36, u'2017-12-07 04:35:44'), (106, u'/World/Thai/%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/', 446, u'2017-12-07 04:35:44'), (107, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%C3%B4ng_tin_Tham_kh%E1%BA%A3o/', 35, u'2017-12-07 04:35:44'), (108, u'/World/Bahasa_Melayu/Komputer/', 9, u'2017-12-07 04:35:44'), (109, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_h%E1%BB%8Dc/', 159, u'2017-12-07 04:35:44'), (110, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_t%E1%BB%A9c/', 39, u'2017-12-07 04:35:44'), (111, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tr%C3%B2_ch%C6%A1i/', 14, u'2017-12-07 04:35:44'), (112, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/X%C3%A3_h%E1%BB%99i/', 150, u'2017-12-07 04:35:44'), (113, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Y_t%E1%BA%BF_-_S%E1%BB%A9c_kho%E1%BA%BB/', 16, u'2017-12-07 04:35:44')] 
+2017-12-07 11:44:47,661 - MainThread - INFO - initate unfinished urls
+2017-12-07 11:45:13,821 - MainThread - INFO - initiate
+2017-12-07 11:45:13,821 - MainThread - DEBUG - INITIATE unfinished urls [(90, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/%C4%90%E1%BB%8Ba_ph%C6%B0%C6%A1ng/', 802, u'2017-12-07 04:35:43'), (91, u'/World/Bahasa_Melayu/Tempatan/', 50, u'2017-12-07 04:35:43'), (92, u'/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/', 52, u'2017-12-07 04:35:43'), (93, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Doanh_nghi%E1%BB%87p/', 63, u'2017-12-07 04:35:43'), (94, u'/World/Bahasa_Indonesia/Daerah/', 398, u'2017-12-07 04:35:43'), (95, u'/World/Bahasa_Melayu/Berita/', 17, u'2017-12-07 04:35:43'), (96, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gia_%C4%91%C3%ACnh/', 7, u'2017-12-07 04:35:43'), (97, u'/World/Bahasa_Indonesia/Belanja/', 166, u'2017-12-07 04:35:43'), (98, u'/World/Bahasa_Melayu/Kesihatan/', 2, u'2017-12-07 04:35:43'), (99, u'/World/Bahasa_Indonesia/Berita/', 46, u'2017-12-07 04:35:43'), (100, u'/World/Thai/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/', 133, u'2017-12-07 04:35:43'), (101, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gi%E1%BA%A3i_tr%C3%AD_%E2%80%93_Ti%C3%AAu_khi%E1%BB%83n/', 20, u'2017-12-07 04:35:43'), (102, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Khoa_h%E1%BB%8Dc/', 31, u'2017-12-07 04:35:44'), (103, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Mua_s%E1%BA%AFm/', 8, u'2017-12-07 04:35:44'), (104, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Ngh%E1%BB%87_thu%E1%BA%ADt/', 46, u'2017-12-07 04:35:44'), (105, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%E1%BB%83_thao/', 36, u'2017-12-07 04:35:44'), (106, u'/World/Thai/%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/', 446, u'2017-12-07 04:35:44'), (107, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%C3%B4ng_tin_Tham_kh%E1%BA%A3o/', 35, u'2017-12-07 04:35:44'), (108, u'/World/Bahasa_Melayu/Komputer/', 9, u'2017-12-07 04:35:44'), (109, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_h%E1%BB%8Dc/', 159, u'2017-12-07 04:35:44'), (110, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_t%E1%BB%A9c/', 39, u'2017-12-07 04:35:44'), (111, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tr%C3%B2_ch%C6%A1i/', 14, u'2017-12-07 04:35:44'), (112, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/X%C3%A3_h%E1%BB%99i/', 150, u'2017-12-07 04:35:44'), (113, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Y_t%E1%BA%BF_-_S%E1%BB%A9c_kho%E1%BA%BB/', 16, u'2017-12-07 04:35:44')] 
+2017-12-07 11:45:13,821 - MainThread - INFO - initate unfinished urls
+2017-12-07 11:45:29,835 - MainThread - INFO - initiate
+2017-12-07 11:45:29,836 - MainThread - DEBUG - INITIATE unfinished urls [(90, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/%C4%90%E1%BB%8Ba_ph%C6%B0%C6%A1ng/', 802, u'2017-12-07 04:35:43'), (91, u'/World/Bahasa_Melayu/Tempatan/', 50, u'2017-12-07 04:35:43'), (92, u'/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/', 52, u'2017-12-07 04:35:43'), (93, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Doanh_nghi%E1%BB%87p/', 63, u'2017-12-07 04:35:43'), (94, u'/World/Bahasa_Indonesia/Daerah/', 398, u'2017-12-07 04:35:43'), (95, u'/World/Bahasa_Melayu/Berita/', 17, u'2017-12-07 04:35:43'), (96, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gia_%C4%91%C3%ACnh/', 7, u'2017-12-07 04:35:43'), (97, u'/World/Bahasa_Indonesia/Belanja/', 166, u'2017-12-07 04:35:43'), (98, u'/World/Bahasa_Melayu/Kesihatan/', 2, u'2017-12-07 04:35:43'), (99, u'/World/Bahasa_Indonesia/Berita/', 46, u'2017-12-07 04:35:43'), (100, u'/World/Thai/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/', 133, u'2017-12-07 04:35:43'), (101, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gi%E1%BA%A3i_tr%C3%AD_%E2%80%93_Ti%C3%AAu_khi%E1%BB%83n/', 20, u'2017-12-07 04:35:43'), (102, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Khoa_h%E1%BB%8Dc/', 31, u'2017-12-07 04:35:44'), (103, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Mua_s%E1%BA%AFm/', 8, u'2017-12-07 04:35:44'), (104, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Ngh%E1%BB%87_thu%E1%BA%ADt/', 46, u'2017-12-07 04:35:44'), (105, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%E1%BB%83_thao/', 36, u'2017-12-07 04:35:44'), (106, u'/World/Thai/%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/', 446, u'2017-12-07 04:35:44'), (107, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%C3%B4ng_tin_Tham_kh%E1%BA%A3o/', 35, u'2017-12-07 04:35:44'), (108, u'/World/Bahasa_Melayu/Komputer/', 9, u'2017-12-07 04:35:44'), (109, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_h%E1%BB%8Dc/', 159, u'2017-12-07 04:35:44'), (110, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_t%E1%BB%A9c/', 39, u'2017-12-07 04:35:44'), (111, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tr%C3%B2_ch%C6%A1i/', 14, u'2017-12-07 04:35:44'), (112, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/X%C3%A3_h%E1%BB%99i/', 150, u'2017-12-07 04:35:44'), (113, u'/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Y_t%E1%BA%BF_-_S%E1%BB%A9c_kho%E1%BA%BB/', 16, u'2017-12-07 04:35:44')] 
+2017-12-07 11:45:29,836 - MainThread - INFO - initate unfinished urls
+2017-12-07 11:47:55,238 - MainThread - INFO - initiate
+2017-12-07 11:47:55,239 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 11:47:55,239 - MainThread - INFO - initate by config
+2017-12-07 11:47:55,239 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/
+2017-12-07 11:47:55,239 - Thread-1 - INFO - processing /World/Bahasa_Melayu/
+2017-12-07 11:47:55,239 - Thread-2 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:47:55,239 - Thread-3 - INFO - processing /World/Thai/
+2017-12-07 11:47:55,240 - Thread-4 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 11:47:55,239 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:47:55,240 - Thread-3 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:47:55,240 - Thread-4 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:48:10,756 - MainThread - INFO - initiate
+2017-12-07 11:48:10,756 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 11:48:10,756 - MainThread - INFO - initate by config
+2017-12-07 11:48:10,756 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/
+2017-12-07 11:48:10,756 - Thread-2 - INFO - processing /World/Bahasa_Melayu/
+2017-12-07 11:48:10,757 - Thread-3 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:48:10,757 - Thread-1 - INFO - processing /World/Thai/
+2017-12-07 11:48:10,757 - Thread-2 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:48:10,757 - Thread-4 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 11:48:10,757 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 11:48:10,757 - Thread-4 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'namei' Error on line 76
+2017-12-07 13:34:26,682 - MainThread - INFO - initiate
+2017-12-07 13:34:26,682 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:34:26,682 - MainThread - INFO - initate by config
+2017-12-07 13:34:26,682 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/
+2017-12-07 13:34:26,683 - Thread-2 - INFO - processing /World/Bahasa_Melayu/
+2017-12-07 13:34:26,685 - Thread-1 - INFO - processing /World/Thai/
+2017-12-07 13:34:26,685 - Thread-4 - INFO - processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 13:34:27,468 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/ 200 
+2017-12-07 13:34:27,909 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/ 200 
+2017-12-07 13:34:27,913 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Melayu/ 200 
+2017-12-07 13:34:27,954 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/ 200 
+2017-12-07 13:34:30,282 - Thread-3 - INFO - done processing /World/Bahasa_Indonesia/
+2017-12-07 13:34:32,049 - Thread-1 - INFO - done processing /World/Thai/
+2017-12-07 13:34:32,750 - Thread-2 - INFO - done processing /World/Bahasa_Melayu/
+2017-12-07 13:34:32,900 - Thread-4 - INFO - done processing /World/Ti%E1%BA%BFng_Vi%E1%BB%87t/
+2017-12-07 13:42:23,338 - MainThread - INFO - initiate
+2017-12-07 13:42:23,338 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:42:23,338 - MainThread - INFO - initate by config
+2017-12-07 13:42:23,338 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:42:23,977 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:43:50,260 - MainThread - INFO - initiate
+2017-12-07 13:43:50,260 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:43:50,260 - MainThread - INFO - initate by config
+2017-12-07 13:43:50,260 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:43:50,271 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 77
+2017-12-07 13:44:06,917 - MainThread - INFO - initiate
+2017-12-07 13:44:06,917 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:44:06,918 - MainThread - INFO - initate by config
+2017-12-07 13:44:06,918 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:44:06,918 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 77
+2017-12-07 13:45:20,389 - MainThread - INFO - initiate
+2017-12-07 13:45:20,389 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:45:20,389 - MainThread - INFO - initate by config
+2017-12-07 13:45:20,389 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:45:20,389 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 77
+2017-12-07 13:46:29,206 - MainThread - INFO - initiate
+2017-12-07 13:46:29,206 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:46:29,206 - MainThread - INFO - initate by config
+2017-12-07 13:46:29,206 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:46:30,133 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:48:37,403 - MainThread - INFO - initiate
+2017-12-07 13:48:37,404 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:48:37,404 - MainThread - INFO - initate by config
+2017-12-07 13:48:37,404 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:48:37,404 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 77
+2017-12-07 13:49:16,664 - MainThread - INFO - initiate
+2017-12-07 13:49:16,664 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:49:16,664 - MainThread - INFO - initate by config
+2017-12-07 13:49:16,664 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:49:18,364 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:49:45,008 - MainThread - INFO - initiate
+2017-12-07 13:49:45,008 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:49:45,008 - MainThread - INFO - initate by config
+2017-12-07 13:49:45,008 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:49:45,077 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:50:11,245 - MainThread - INFO - initiate
+2017-12-07 13:50:11,245 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:50:11,245 - MainThread - INFO - initate by config
+2017-12-07 13:50:11,245 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:50:11,314 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:52:58,212 - MainThread - INFO - initiate
+2017-12-07 13:52:58,212 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:52:58,212 - MainThread - INFO - initate by config
+2017-12-07 13:52:58,212 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:52:58,213 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 79
+2017-12-07 13:53:32,331 - MainThread - INFO - initiate
+2017-12-07 13:53:32,332 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:53:32,332 - MainThread - INFO - initate by config
+2017-12-07 13:53:32,332 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:53:32,332 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'module' object has no attribute 'encode' Error on line 79
+2017-12-07 13:53:59,141 - MainThread - INFO - initiate
+2017-12-07 13:53:59,141 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:53:59,141 - MainThread - INFO - initate by config
+2017-12-07 13:53:59,142 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:53:59,142 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 12-23: ordinal not in range(128) Error on line 79
+2017-12-07 13:57:39,839 - MainThread - INFO - initiate
+2017-12-07 13:57:39,839 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:57:39,839 - MainThread - INFO - initate by config
+2017-12-07 13:57:39,839 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:57:40,514 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:57:58,686 - MainThread - INFO - initiate
+2017-12-07 13:57:58,686 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:57:58,686 - MainThread - INFO - initate by config
+2017-12-07 13:57:58,687 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:58:03,811 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:58:09,258 - MainThread - INFO - initiate
+2017-12-07 13:58:09,258 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:58:09,258 - MainThread - INFO - initate by config
+2017-12-07 13:58:09,258 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:58:10,528 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 13:59:02,670 - MainThread - INFO - initiate
+2017-12-07 13:59:02,671 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 13:59:02,671 - MainThread - INFO - initate by config
+2017-12-07 13:59:02,671 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 13:59:03,267 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:00:06,848 - MainThread - INFO - initiate
+2017-12-07 14:00:06,848 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:00:06,848 - MainThread - INFO - initate by config
+2017-12-07 14:00:06,848 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:00:07,555 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:00:31,949 - MainThread - INFO - initiate
+2017-12-07 14:00:31,949 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:00:31,949 - MainThread - INFO - initate by config
+2017-12-07 14:00:31,950 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:00:32,020 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:00:55,531 - MainThread - INFO - initiate
+2017-12-07 14:00:55,532 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:00:55,532 - MainThread - INFO - initate by config
+2017-12-07 14:00:55,532 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:00:55,637 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:02:35,156 - MainThread - INFO - initiate
+2017-12-07 14:02:35,156 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:02:35,156 - MainThread - INFO - initate by config
+2017-12-07 14:02:35,156 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:02:35,156 - Thread-1 - ERROR - Error : <type 'exceptions.TypeError'> urlcleanup() takes no arguments (1 given) Error on line 91
+2017-12-07 14:03:07,762 - MainThread - INFO - initiate
+2017-12-07 14:03:07,762 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:03:07,762 - MainThread - INFO - initate by config
+2017-12-07 14:03:07,762 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:03:08,518 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:05:51,349 - MainThread - INFO - initiate
+2017-12-07 14:05:51,350 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:05:51,350 - MainThread - INFO - initate by config
+2017-12-07 14:05:51,350 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:05:57,304 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:06:17,864 - MainThread - INFO - initiate
+2017-12-07 14:06:17,864 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:06:17,864 - MainThread - INFO - initate by config
+2017-12-07 14:06:17,864 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:06:17,988 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:06:33,101 - MainThread - INFO - initiate
+2017-12-07 14:06:33,102 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:06:33,102 - MainThread - INFO - initate by config
+2017-12-07 14:06:33,102 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:06:38,219 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:06:47,286 - MainThread - INFO - initiate
+2017-12-07 14:06:47,287 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:06:47,287 - MainThread - INFO - initate by config
+2017-12-07 14:06:47,287 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:06:47,352 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:07:12,263 - MainThread - INFO - initiate
+2017-12-07 14:07:12,263 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:07:12,263 - MainThread - INFO - initate by config
+2017-12-07 14:07:12,263 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:07:17,953 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:07:56,432 - MainThread - INFO - initiate
+2017-12-07 14:07:56,432 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:07:56,432 - MainThread - INFO - initate by config
+2017-12-07 14:07:56,433 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:09:09,128 - MainThread - INFO - initiate
+2017-12-07 14:09:09,128 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:09:09,128 - MainThread - INFO - initate by config
+2017-12-07 14:09:09,129 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:09:09,129 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'str' object has no attribute 'letters' Error on line 86
+2017-12-07 14:10:15,455 - MainThread - INFO - initiate
+2017-12-07 14:10:15,455 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:10:15,455 - MainThread - INFO - initate by config
+2017-12-07 14:10:15,455 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:10:33,499 - MainThread - INFO - initiate
+2017-12-07 14:10:33,500 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:10:33,500 - MainThread - INFO - initate by config
+2017-12-07 14:10:33,500 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:12:23,746 - MainThread - INFO - initiate
+2017-12-07 14:12:23,746 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:12:23,746 - MainThread - INFO - initate by config
+2017-12-07 14:12:23,746 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:12:46,932 - MainThread - INFO - initiate
+2017-12-07 14:12:46,932 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:12:46,932 - MainThread - INFO - initate by config
+2017-12-07 14:12:46,933 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:12:59,742 - MainThread - INFO - initiate
+2017-12-07 14:12:59,742 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:12:59,742 - MainThread - INFO - initate by config
+2017-12-07 14:12:59,742 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:15:26,006 - MainThread - INFO - initiate
+2017-12-07 14:15:26,006 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:15:26,006 - MainThread - INFO - initate by config
+2017-12-07 14:15:26,007 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:16:03,515 - MainThread - INFO - initiate
+2017-12-07 14:16:03,515 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:16:03,516 - MainThread - INFO - initate by config
+2017-12-07 14:16:03,516 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:18:02,888 - MainThread - INFO - initiate
+2017-12-07 14:18:02,888 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:18:02,888 - MainThread - INFO - initate by config
+2017-12-07 14:18:02,888 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:18:20,830 - MainThread - INFO - initiate
+2017-12-07 14:18:20,830 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:18:20,830 - MainThread - INFO - initate by config
+2017-12-07 14:18:20,831 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:20:24,024 - MainThread - INFO - initiate
+2017-12-07 14:20:24,024 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:20:24,024 - MainThread - INFO - initate by config
+2017-12-07 14:20:24,024 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:20:24,024 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'thread._local' object has no attribute 'dmzbs' Error on line 90
+2017-12-07 14:21:28,367 - MainThread - INFO - initiate
+2017-12-07 14:21:28,367 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:21:28,367 - MainThread - INFO - initate by config
+2017-12-07 14:21:28,367 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:21:28,981 - Thread-1 - ERROR - Error : <type 'exceptions.UnicodeEncodeError'> 'ascii' codec can't encode characters in position 32-35: ordinal not in range(128) Error on line 90
+2017-12-07 14:22:48,718 - MainThread - INFO - initiate
+2017-12-07 14:22:48,718 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:22:48,718 - MainThread - INFO - initate by config
+2017-12-07 14:22:48,719 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:22:48,719 - Thread-1 - ERROR - Error : <type 'exceptions.AttributeError'> 'module' object has no attribute 'encode' Error on line 84
+2017-12-07 14:23:33,206 - MainThread - INFO - initiate
+2017-12-07 14:23:33,207 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:23:33,207 - MainThread - INFO - initate by config
+2017-12-07 14:23:33,207 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:23:33,207 - Thread-1 - ERROR - Error : <type 'exceptions.KeyError'> u'\u0e01' Error on line 84
+2017-12-07 14:23:59,115 - MainThread - INFO - initiate
+2017-12-07 14:23:59,116 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:23:59,116 - MainThread - INFO - initate by config
+2017-12-07 14:23:59,116 - Thread-1 - INFO - processing /World/Thai/กีฬา/
+2017-12-07 14:23:59,116 - Thread-1 - ERROR - Error : <type 'exceptions.KeyError'> u'\u0e01' Error on line 84
+2017-12-07 14:24:51,267 - MainThread - INFO - initiate
+2017-12-07 14:24:51,267 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:24:51,267 - MainThread - INFO - initate by config
+2017-12-07 14:24:51,267 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:24:51,858 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:26:09,743 - MainThread - INFO - initiate
+2017-12-07 14:26:09,744 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:26:09,744 - MainThread - INFO - initate by config
+2017-12-07 14:26:09,744 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:26:15,293 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:27:19,578 - MainThread - INFO - initiate
+2017-12-07 14:27:19,578 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:27:19,578 - MainThread - INFO - initate by config
+2017-12-07 14:27:19,579 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:27:29,794 - MainThread - INFO - initiate
+2017-12-07 14:27:29,794 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:27:29,795 - MainThread - INFO - initate by config
+2017-12-07 14:27:29,795 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:29:23,203 - MainThread - INFO - initiate
+2017-12-07 14:29:23,204 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:29:23,204 - MainThread - INFO - initate by config
+2017-12-07 14:29:23,204 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:29:33,146 - MainThread - INFO - initiate
+2017-12-07 14:29:33,146 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:29:33,146 - MainThread - INFO - initate by config
+2017-12-07 14:29:33,146 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:30:15,137 - MainThread - INFO - initiate
+2017-12-07 14:30:15,137 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:30:15,137 - MainThread - INFO - initate by config
+2017-12-07 14:30:15,137 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:30:15,138 - Thread-1 - ERROR - Error : <type 'exceptions.TypeError'> decoding Unicode is not supported Error on line 86
+2017-12-07 14:30:55,984 - MainThread - INFO - initiate
+2017-12-07 14:30:55,984 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:30:55,984 - MainThread - INFO - initate by config
+2017-12-07 14:30:55,985 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:31:35,914 - MainThread - INFO - initiate
+2017-12-07 14:31:35,915 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:31:35,915 - MainThread - INFO - initate by config
+2017-12-07 14:31:35,915 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:33:57,198 - MainThread - INFO - initiate
+2017-12-07 14:33:57,199 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:33:57,199 - MainThread - INFO - initate by config
+2017-12-07 14:33:57,199 - Thread-1 - INFO - processing /World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/
+2017-12-07 14:33:57,809 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/ 200 
+2017-12-07 14:33:57,994 - Thread-1 - ERROR - Error : <class 'mysql.connector.errors.DatabaseError'> 1366 (HY000): Incorrect string value: '\xE0\xB8\x81\xE0\xB8\xB5...' for column 'keywords' at row 1 Error on line 105
+2017-12-07 14:55:23,201 - MainThread - INFO - initiate
+2017-12-07 14:55:23,201 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:55:23,201 - MainThread - INFO - initate by config
+2017-12-07 14:55:23,201 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 14:55:23,444 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/ 200 
+2017-12-07 14:57:52,377 - MainThread - INFO - initiate
+2017-12-07 14:57:52,377 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 14:57:52,377 - MainThread - INFO - initate by config
+2017-12-07 14:57:52,377 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 14:57:53,158 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/ 200 
+2017-12-07 14:57:54,106 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 15:03:21,176 - MainThread - INFO - initiate
+2017-12-07 15:03:21,176 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:03:21,176 - MainThread - INFO - initate by config
+2017-12-07 15:03:21,176 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 15:03:26,707 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/ 200 
+2017-12-07 15:03:27,508 - Thread-1 - ERROR - Error : <type 'exceptions.TypeError'> list indices must be integers, not str Error on line 112
+2017-12-07 15:06:24,294 - MainThread - INFO - initiate
+2017-12-07 15:06:24,294 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:06:24,294 - MainThread - INFO - initate by config
+2017-12-07 15:06:24,294 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 15:06:24,874 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/ 200 
+2017-12-07 15:06:25,735 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/
+2017-12-07 15:06:25,736 - Thread-4 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Homoseksual_dan_Biseksual/
+2017-12-07 15:06:25,736 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Hukum/
+2017-12-07 15:06:25,855 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/
+2017-12-07 15:06:26,917 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Homoseksual_dan_Biseksual/ 200 
+2017-12-07 15:06:27,144 - Thread-4 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Homoseksual_dan_Biseksual/
+2017-12-07 15:06:27,361 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/ 200 
+2017-12-07 15:06:27,541 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Hukum/ 200 
+2017-12-07 15:06:27,811 - Thread-2 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Hukum/
+2017-12-07 15:06:28,261 - Thread-3 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/
+2017-12-07 15:08:05,953 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Kegemaran/
+2017-12-07 15:08:07,045 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Kegemaran/ 200 
+2017-12-07 15:08:07,235 - Thread-4 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Orang-orang/
+2017-12-07 15:08:07,289 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Kegemaran/
+2017-12-07 15:08:07,905 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Organisasi/
+2017-12-07 15:08:08,354 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Pekerjaan/
+2017-12-07 15:08:08,998 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Orang-orang/ 200 
+2017-12-07 15:08:09,357 - Thread-4 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Orang-orang/
+2017-12-07 15:08:09,842 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Pekerjaan/ 200 
+2017-12-07 15:08:10,028 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Organisasi/ 200 
+2017-12-07 15:08:10,090 - Thread-3 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Pekerjaan/
+2017-12-07 15:08:11,324 - Thread-2 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Organisasi/
+2017-12-07 15:09:47,387 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Pemerintah/
+2017-12-07 15:09:49,330 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Pemerintah/ 200 
+2017-12-07 15:09:49,457 - Thread-4 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Politik/
+2017-12-07 15:09:49,936 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Pemerintah/
+2017-12-07 15:09:50,189 - Thread-3 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/
+2017-12-07 15:09:50,742 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Politik/ 200 
+2017-12-07 15:09:51,178 - Thread-4 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Politik/
+2017-12-07 15:09:51,274 - Thread-3 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/ 200 
+2017-12-07 15:09:51,304 - Thread-3 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '169,042' Error on line 91
+2017-12-07 15:09:51,304 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/
+2017-12-07 15:09:51,421 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Hindu/
+2017-12-07 15:09:52,946 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Hindu/ 200 
+2017-12-07 15:09:53,270 - Thread-2 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/Hindu/
+2017-12-07 15:09:53,322 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/ 200 
+2017-12-07 15:09:54,007 - Thread-3 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/
+2017-12-07 15:11:29,965 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Islam/
+2017-12-07 15:11:31,277 - Thread-4 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/
+2017-12-07 15:11:33,248 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/ 200 
+2017-12-07 15:11:33,335 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Tao/
+2017-12-07 15:11:33,495 - Thread-4 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/ 200 
+2017-12-07 15:11:34,106 - Thread-3 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Organisasi/
+2017-12-07 15:11:34,670 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Tao/ 200 
+2017-12-07 15:11:34,939 - Thread-3 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Organisasi/ 200 
+2017-12-07 15:11:35,071 - Thread-1 - ERROR - Error : <class 'sqlite3.OperationalError'> cannot commit - no transaction is active Error on line 118
+2017-12-07 15:11:35,071 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:11:35,938 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 15:11:35,983 - Thread-1 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '79,780' Error on line 91
+2017-12-07 15:11:35,983 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Kegemaran/Organisasi/
+2017-12-07 15:11:37,005 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Kegemaran/Organisasi/ 200 
+2017-12-07 15:49:05,509 - MainThread - INFO - initiate
+2017-12-07 15:49:05,509 - MainThread - DEBUG - INITIATE unfinished urls [(203, u'/Regional/Asia/Indonesia/Society_and_Culture/', 137, u'2017-12-07 08:06:25'), (206, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/', 76, u'2017-12-07 08:06:27'), (207, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/', 26, u'2017-12-07 08:06:27'), (208, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Tao/', 1, u'2017-12-07 08:06:27'), (210, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/', 7, u'2017-12-07 08:06:27'), (212, u'/World/Bahasa_Indonesia/Masyarakat/Orang-orang/Halaman_Pribadi/', 87, u'2017-12-07 08:08:09'), (213, u'/World/Bahasa_Indonesia/Masyarakat/Orang-orang/Kelompok/', 5, u'2017-12-07 08:08:09'), (214, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Sumber_Daya_untuk_Non_Profit/', 1, u'2017-12-07 08:08:10'), (215, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Advokasi/', 2, u'2017-12-07 08:08:10'), (216, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Organisasi/', 0, u'2017-12-07 08:08:10'), (217, u'/World/Bahasa_Indonesia/Masyarakat/Kegemaran/Organisasi/', 0, u'2017-12-07 08:08:10'), (218, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Kelompok_Penolong/', 0, u'2017-12-07 08:08:10'), (219, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Kemanusiaan/', 6, u'2017-12-07 08:08:10'), (220, u'/World/Bahasa_Indonesia/Kesehatan/Organisasi/', 1, u'2017-12-07 08:08:10'), (221, u'/World/Bahasa_Indonesia/Kesenian/Organisasi/', 0, u'2017-12-07 08:08:10'), (222, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Lingkungan_Hidup/', 6, u'2017-12-07 08:08:10'), (223, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Pelajar/', 8, u'2017-12-07 08:08:10'), (224, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Pembangunan/', 0, u'2017-12-07 08:08:10'), (225, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Profesi/', 2, u'2017-12-07 08:08:10'), (226, u'/Regional/Asia/Indonesia/Society_and_Culture/Organizations/', 17, u'2017-12-07 08:08:10'), (227, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Badan_Usaha_Milik_Negara/', 4, u'2017-12-07 08:09:49'), (228, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Daerah/', 3, u'2017-12-07 08:09:49'), (229, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Departemen_dan_Badan/', 22, u'2017-12-07 08:09:49'), (230, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Kedutaan/', 6, u'2017-12-07 08:09:49'), (231, u'/Regional/Asia/Indonesia/Government/', 51, u'2017-12-07 08:09:49'), (232, u'/World/Bahasa_Indonesia/Masyarakat/Politik/Partai/', 4, u'2017-12-07 08:09:50'), (233, u'/World/Bahasa_Indonesia/Masyarakat/Politik/Reformasi/', 3, u'2017-12-07 08:09:50'), (234, u'/Regional/Asia/Indonesia/Society_and_Culture/Politics/', 5, u'2017-12-07 08:09:50'), (235, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/Hinduism/', 1, u'2017-12-07 08:09:52'), (236, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Group_Diskusi/', 9, u'2017-12-07 08:09:53'), (237, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Majalah_Buddhis/', 0, u'2017-12-07 08:09:53'), (238, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Pelajar_dan_Mahasiswa/', 1, u'2017-12-07 08:09:53'), (239, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Vihara/', 1, u'2017-12-07 08:09:53'), (240, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Maitreya/', 0, u'2017-12-07 08:09:53'), (241, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Pesantren/', 8, u'2017-12-07 08:11:33'), (242, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Artikel/', 34, u'2017-12-07 08:11:33'), (243, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Berita/', 4, u'2017-12-07 08:11:33'), (244, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Komunitas/', 4, u'2017-12-07 08:11:33'), (245, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Katolik/', 6, u'2017-12-07 08:11:33'), (246, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Masjid/', 0, u'2017-12-07 08:11:33'), (247, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Artikel/', 6, u'2017-12-07 08:11:33'), (248, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Organisasi/', 12, u'2017-12-07 08:11:33'), (249, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Belanja/', 0, u'2017-12-07 08:11:33'), (250, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Direktori/', 0, u'2017-12-07 08:11:34'), (251, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Gereja/', 3, u'2017-12-07 08:11:34'), (252, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Perangkat_Lunak/', 4, u'2017-12-07 08:11:34'), (253, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Kesaksian/', 0, u'2017-12-07 08:11:34'), (254, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Quran_dan_Hadits/', 0, u'2017-12-07 08:11:34'), (255, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Tanya_Jawab/', 2, u'2017-12-07 08:11:34'), (256, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/Islam/', 0, u'2017-12-07 08:11:34'), (257, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Komunitas/', 1, u'2017-12-07 08:11:34'), (258, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Organisasi/', 5, u'2017-12-07 08:11:34')] 
+2017-12-07 15:49:05,509 - MainThread - INFO - initate unfinished urls
+2017-12-07 15:50:08,638 - MainThread - INFO - initiate
+2017-12-07 15:50:08,638 - MainThread - DEBUG - INITIATE unfinished urls [(203, u'/Regional/Asia/Indonesia/Society_and_Culture/', 137, u'2017-12-07 08:06:25'), (206, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/', 76, u'2017-12-07 08:06:27'), (207, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/', 26, u'2017-12-07 08:06:27'), (208, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Tao/', 1, u'2017-12-07 08:06:27'), (210, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/', 7, u'2017-12-07 08:06:27'), (212, u'/World/Bahasa_Indonesia/Masyarakat/Orang-orang/Halaman_Pribadi/', 87, u'2017-12-07 08:08:09'), (213, u'/World/Bahasa_Indonesia/Masyarakat/Orang-orang/Kelompok/', 5, u'2017-12-07 08:08:09'), (214, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Sumber_Daya_untuk_Non_Profit/', 1, u'2017-12-07 08:08:10'), (215, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Advokasi/', 2, u'2017-12-07 08:08:10'), (216, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Organisasi/', 0, u'2017-12-07 08:08:10'), (217, u'/World/Bahasa_Indonesia/Masyarakat/Kegemaran/Organisasi/', 0, u'2017-12-07 08:08:10'), (218, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Kelompok_Penolong/', 0, u'2017-12-07 08:08:10'), (219, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Kemanusiaan/', 6, u'2017-12-07 08:08:10'), (220, u'/World/Bahasa_Indonesia/Kesehatan/Organisasi/', 1, u'2017-12-07 08:08:10'), (221, u'/World/Bahasa_Indonesia/Kesenian/Organisasi/', 0, u'2017-12-07 08:08:10'), (222, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Lingkungan_Hidup/', 6, u'2017-12-07 08:08:10'), (223, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Pelajar/', 8, u'2017-12-07 08:08:10'), (224, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Pembangunan/', 0, u'2017-12-07 08:08:10'), (225, u'/World/Bahasa_Indonesia/Masyarakat/Organisasi/Profesi/', 2, u'2017-12-07 08:08:10'), (226, u'/Regional/Asia/Indonesia/Society_and_Culture/Organizations/', 17, u'2017-12-07 08:08:10'), (227, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Badan_Usaha_Milik_Negara/', 4, u'2017-12-07 08:09:49'), (228, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Daerah/', 3, u'2017-12-07 08:09:49'), (229, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Departemen_dan_Badan/', 22, u'2017-12-07 08:09:49'), (230, u'/World/Bahasa_Indonesia/Masyarakat/Pemerintah/Kedutaan/', 6, u'2017-12-07 08:09:49'), (231, u'/Regional/Asia/Indonesia/Government/', 51, u'2017-12-07 08:09:49'), (232, u'/World/Bahasa_Indonesia/Masyarakat/Politik/Partai/', 4, u'2017-12-07 08:09:50'), (233, u'/World/Bahasa_Indonesia/Masyarakat/Politik/Reformasi/', 3, u'2017-12-07 08:09:50'), (234, u'/Regional/Asia/Indonesia/Society_and_Culture/Politics/', 5, u'2017-12-07 08:09:50'), (235, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/Hinduism/', 1, u'2017-12-07 08:09:52'), (236, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Group_Diskusi/', 9, u'2017-12-07 08:09:53'), (237, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Majalah_Buddhis/', 0, u'2017-12-07 08:09:53'), (238, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Pelajar_dan_Mahasiswa/', 1, u'2017-12-07 08:09:53'), (239, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Vihara/', 1, u'2017-12-07 08:09:53'), (240, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Buddha/Maitreya/', 0, u'2017-12-07 08:09:53'), (241, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Pesantren/', 8, u'2017-12-07 08:11:33'), (242, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Artikel/', 34, u'2017-12-07 08:11:33'), (243, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Berita/', 4, u'2017-12-07 08:11:33'), (244, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Komunitas/', 4, u'2017-12-07 08:11:33'), (245, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Katolik/', 6, u'2017-12-07 08:11:33'), (246, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Masjid/', 0, u'2017-12-07 08:11:33'), (247, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Artikel/', 6, u'2017-12-07 08:11:33'), (248, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Organisasi/', 12, u'2017-12-07 08:11:33'), (249, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Belanja/', 0, u'2017-12-07 08:11:33'), (250, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Direktori/', 0, u'2017-12-07 08:11:34'), (251, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Gereja/', 3, u'2017-12-07 08:11:34'), (252, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Perangkat_Lunak/', 4, u'2017-12-07 08:11:34'), (253, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Kesaksian/', 0, u'2017-12-07 08:11:34'), (254, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Quran_dan_Hadits/', 0, u'2017-12-07 08:11:34'), (255, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/Tanya_Jawab/', 2, u'2017-12-07 08:11:34'), (256, u'/Regional/Asia/Indonesia/Society_and_Culture/Religion/Islam/', 0, u'2017-12-07 08:11:34'), (257, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Komunitas/', 1, u'2017-12-07 08:11:34'), (258, u'/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/Organisasi/', 5, u'2017-12-07 08:11:34')] 
+2017-12-07 15:50:08,638 - MainThread - INFO - initate unfinished urls
+2017-12-07 15:50:08,638 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/
+2017-12-07 15:50:08,639 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Islam/
+2017-12-07 15:50:09,220 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Islam/ 200 
+2017-12-07 15:50:10,469 - Thread-2 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/Islam/
+2017-12-07 15:50:11,550 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/ 200 
+2017-12-07 15:50:11,574 - Thread-1 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '169,042' Error on line 91
+2017-12-07 15:50:11,574 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/
+2017-12-07 15:50:12,307 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/ 200 
+2017-12-07 15:50:13,675 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/Kristen/
+2017-12-07 15:51:50,540 - Thread-2 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Agama/Tao/
+2017-12-07 15:51:51,310 - Thread-2 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Agama/Tao/ 200 
+2017-12-07 15:51:51,817 - Thread-2 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Agama/Tao/
+2017-12-07 15:51:53,773 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:51:54,576 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 15:51:54,615 - Thread-1 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '79,780' Error on line 91
+2017-12-07 15:51:54,615 - Thread-1 - INFO - processing /World/Bahasa_Indonesia/Masyarakat/Orang-orang/Halaman_Pribadi/
+2017-12-07 15:51:56,700 - Thread-1 - INFO - #REQUEST http://dmoztools.net/World/Bahasa_Indonesia/Masyarakat/Orang-orang/Halaman_Pribadi/ 200 
+2017-12-07 15:51:57,027 - Thread-1 - INFO - done processing /World/Bahasa_Indonesia/Masyarakat/Orang-orang/Halaman_Pribadi/
+2017-12-07 15:53:50,161 - MainThread - INFO - initiate
+2017-12-07 15:53:50,162 - MainThread - DEBUG - INITIATE unfinished urls [(286, u'abc', 10, u'2017-12-07 08:53:48')] 
+2017-12-07 15:53:50,162 - MainThread - INFO - initate unfinished urls
+2017-12-07 15:53:50,162 - Thread-1 - INFO - processing abc
+2017-12-07 15:53:50,185 - Thread-1 - ERROR - Error : <class 'requests.exceptions.ConnectionError'> HTTPConnectionPool(host='dmoztools.netabc', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f130a19bad0>: Failed to establish a new connection: [Errno -2] Name or service not known',)) Error on line 79
+2017-12-07 15:54:37,725 - MainThread - INFO - initiate
+2017-12-07 15:54:37,725 - MainThread - DEBUG - INITIATE unfinished urls [(286, u'abc', 10, u'2017-12-07 08:53:48')] 
+2017-12-07 15:54:37,725 - MainThread - INFO - initate unfinished urls
+2017-12-07 15:54:37,725 - Thread-1 - INFO - processing abc
+2017-12-07 15:54:37,729 - Thread-1 - ERROR - Error : <class 'requests.exceptions.ConnectionError'> HTTPConnectionPool(host='dmoztools.netabc', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7feabe8e7ad0>: Failed to establish a new connection: [Errno -2] Name or service not known',)) Error on line 79
+2017-12-07 15:54:56,706 - MainThread - INFO - initiate
+2017-12-07 15:54:56,706 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:54:56,706 - MainThread - INFO - initate by config
+2017-12-07 15:54:56,706 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:54:57,398 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 15:54:57,416 - Thread-1 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '79,780' Error on line 91
+2017-12-07 15:56:54,134 - MainThread - INFO - initiate
+2017-12-07 15:56:54,134 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:56:54,134 - MainThread - INFO - initate by config
+2017-12-07 15:56:54,134 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:56:54,286 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 15:58:05,735 - MainThread - INFO - initiate
+2017-12-07 15:58:05,735 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:58:05,735 - MainThread - INFO - initate by config
+2017-12-07 15:58:05,735 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:58:06,297 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 15:59:02,260 - MainThread - INFO - initiate
+2017-12-07 15:59:02,261 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 15:59:02,261 - MainThread - INFO - initate by config
+2017-12-07 15:59:02,261 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 15:59:02,343 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-07 16:03:03,193 - MainThread - INFO - initiate
+2017-12-07 16:03:03,193 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-07 16:03:03,193 - MainThread - INFO - initate by config
+2017-12-07 16:03:03,193 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/Society_and_Culture/Religion/
+2017-12-07 16:03:08,790 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/Society_and_Culture/Religion/ 200 
+2017-12-08 10:44:09,481 - MainThread - INFO - initiate
+2017-12-08 10:44:09,481 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-08 10:44:09,481 - MainThread - INFO - initate by config
+2017-12-08 10:44:09,482 - Thread-1 - INFO - processing Regional/Asia/Indonesia/
+2017-12-08 10:44:09,507 - Thread-1 - ERROR - Error : <class 'requests.exceptions.ConnectionError'> HTTPConnectionPool(host='dmoztools.netregional', port=80): Max retries exceeded with url: /Asia/Indonesia/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc145f80bd0>: Failed to establish a new connection: [Errno -2] Name or service not known',)) Error on line 82
+2017-12-08 10:45:49,070 - MainThread - INFO - initiate
+2017-12-08 10:45:49,070 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-08 10:45:49,070 - MainThread - INFO - initate by config
+2017-12-08 10:45:49,070 - Thread-1 - INFO - processing Regional/Asia/Indonesia/
+2017-12-08 10:45:49,074 - Thread-1 - ERROR - Error : <class 'requests.exceptions.ConnectionError'> HTTPConnectionPool(host='dmoztools.netregional', port=80): Max retries exceeded with url: /Asia/Indonesia/ (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f29137debd0>: Failed to establish a new connection: [Errno -2] Name or service not known',)) Error on line 82
+2017-12-08 10:46:15,581 - MainThread - INFO - initiate
+2017-12-08 10:46:15,581 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-08 10:46:15,581 - MainThread - INFO - initate by config
+2017-12-08 10:46:15,581 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/
+2017-12-08 10:46:15,915 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/ 200 
+2017-12-08 10:46:15,971 - Thread-1 - ERROR - Error : <type 'exceptions.ValueError'> invalid literal for int() with base 10: '46,370' Error on line 94
+2017-12-08 10:47:42,742 - MainThread - INFO - initiate
+2017-12-08 10:47:42,742 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-08 10:47:42,742 - MainThread - INFO - initate by config
+2017-12-08 10:47:42,742 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/
+2017-12-08 10:47:43,514 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/ 200 
+2017-12-08 10:48:05,699 - MainThread - INFO - initiate
+2017-12-08 10:48:05,699 - MainThread - DEBUG - INITIATE unfinished urls [] 
+2017-12-08 10:48:05,699 - MainThread - INFO - initate by config
+2017-12-08 10:48:05,700 - Thread-1 - INFO - processing /Regional/Asia/Indonesia/
+2017-12-08 10:48:05,767 - Thread-1 - INFO - #REQUEST http://dmoztools.net/Regional/Asia/Indonesia/ 200 

@@ -1,6 +1,10 @@
 {
 	"domain_name" : "http://dmoztools.net",
 	"force_check" : true,
+	"daily_max_request" :  100,
+	"sleep_hour_after_finished" : 10,
+	"sleep_hour_max_request" : 24,
+	"sleep_second_after_request" : 5,
   	"languages": [
 	    {
 	      "iso_name": "Indonesia",
